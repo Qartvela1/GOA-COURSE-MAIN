@@ -15,7 +15,3 @@ print("The result of < is:",num1 < num2)
 print("The result of >= is:",num1 >= num2)
 print("The result of <= is:",num1 <= num2)
 print("The result of == is:",num1 == num2)
-
-
-
-
