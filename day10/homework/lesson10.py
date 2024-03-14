@@ -1,6 +1,6 @@
-HW_list2 = [s, "i am string", 2.5, True]
+HW_list2 = [5, "i am string", 2.5, True]
 
-print(HW_list2[0])
+print(HW_list2[0])        
 print(HW_list2[1]) 
 print(HW_list2[2])
 print(HW_list2[3])
@@ -43,9 +43,6 @@ for x in HW_list5:
        HW_list5.append(x)
 
 print(HW_list5)
-
-
-
 
 
 
